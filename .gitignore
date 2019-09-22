@@ -1,0 +1,7 @@
+/.idea
+/ptvenv
+*.mp4
+*.weights
+/__pycache__
+/*/__pycache__
+__init__.py
