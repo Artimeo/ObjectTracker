@@ -1,5 +1,5 @@
-##Real-Time object tracker based on YOLO Convolutional Neural Network and SORT algorithm
-####References
+## Real-Time object tracker based on YOLO Convolutional Neural Network and SORT algorithm
+#### References
 [SORT](https://github.com/abewley/sort) - A simple online and realtime tracking algorithm for 2D multiple object tracking in video sequences. Alex Bewley.
 
 ```
