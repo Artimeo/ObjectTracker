@@ -1,7 +1,10 @@
 /.idea
 /ptvenv
+
 *.mp4
+*.avi
 *.weights
+
 /__pycache__
 /*/__pycache__
 __init__.py
