@@ -1,4 +1,7 @@
 ## Real-Time object tracker based on YOLO Convolutional Neural Network and SORT algorithm
+#### Preview
+![gif](https://github.com/Artimeo/ObjectTracker/blob/master/utils/traffic-det.gif)
+
 #### References
 [SORT](https://github.com/abewley/sort) - A simple online and realtime tracking algorithm for 2D multiple object tracking in video sequences. Alex Bewley.
 
@@ -19,6 +22,3 @@ ___
 The https://github.com/ultralytics/yolov3 repo contains inference and training code for YOLOv3 in PyTorch. The code works on Linux, MacOS and Windows. Training is done on the COCO dataset by default: https://cocodataset.org/#home. Credit to Joseph Redmon for YOLO: https://pjreddie.com/darknet/yolo/.
 
 [![DOI](https://zenodo.org/badge/146165888.svg)](https://zenodo.org/badge/latestdoi/146165888)
-
-#### Preview
-![gif](https://github.com/Artimeo/ObjectTracker/blob/master/utils/traffic-det.gif)
